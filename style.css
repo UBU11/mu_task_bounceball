@@ -39,8 +39,8 @@ canvas {
 }
 
 #addBall:hover {
-  background-color: rgba(0, 255, 247, 0.1);
-  box-shadow: 0 0 15px #00fff7;
+  background-color: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 15px #15ff00;
 }
 
 #score {
@@ -51,6 +51,6 @@ canvas {
   background: rgba(0, 255, 255, 0.1);
   padding: 8px 14px;
   border-radius: 6px;
-  border: 1px solid #00fff7;
-  text-shadow: 0 0 10px #00fff7;
+  border: 1px solid #33ff00;
+  text-shadow: 0 0 10px #00ff2f;
 }
